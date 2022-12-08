@@ -25,6 +25,3 @@
 </div>
 
   ---
-  
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajin0516&&theme=buefy&show_icons=true&hide=contribs)](https://github.com/ajin0516/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajin0516&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
